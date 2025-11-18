@@ -1,0 +1,2 @@
+# voice-ai-assistant
+AI-powered Python Voice Assistant with speech recognition, text-to-speech, translation, Wikipedia search, jokes, open apps  and system command execution.
